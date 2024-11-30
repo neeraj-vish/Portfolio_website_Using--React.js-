@@ -1,0 +1,34 @@
+[
+    {
+      "key": 1,
+      "title": "Prevention of SQL Injection on Website",
+      "imageSrc": "projects/proj1.png",
+      "description": "This project is based on the Cyber Security domain.Main focus is to provide the prevention and detection mechanism to secure the data from one of the cyber attacks ie.SQL Injection Attack",
+      "demo": "https://github.com/neeraj-vish/Final_Year_Project/tree/main/Document",
+      "source": "https://github.com/neeraj-vish/Final_Year_Project"
+    },
+    {
+      "key": 2,
+      "title": "Encrypt/Decrypt message using Plairfair & Caesar Cipher",
+      "imageSrc": "projects/proj2.png",
+      "description": "This project is focuses on cybersecurity, encrypting/decrypting messages with Playfair Caesar Cipher, and ensuring secure message transfer with secret keys.",
+      "demo": "https://github.com/neeraj-vish/Encrypt-Decrypt-message-using-Plairfair-Caesar-Cipher/tree/main/Encrypt_Decrypt_video",
+      "source": "https://github.com/neeraj-vish/Encrypt-Decrypt-message-using-Plairfair-Caesar-Cipher"
+    },
+    {
+      "key": 3,
+      "title": "React API Project",
+      "imageSrc": "projects/proj3.png",
+      "description": "This project is focuses fetching data from third party through API and show the data on webpage",
+      "demo": "https://github.com/neeraj-vish/React_API_Project/blob/main/React%20API%20Project-video.mp4",
+      "source": "https://github.com/neeraj-vish/React_API_Project"
+    },
+    {
+      "key": 4,
+      "title": "React-ShoppingCart_Ecommerce_Website",
+      "imageSrc": "projects/proj4.png",
+      "description": "This is React E-commerce shopping cart app with search,filter,addtocart,realted product functionality.",
+      "demo": "https://github.com/neeraj-vish/React-ShoppingCart_Ecommerce_Website/tree/main/Demo_video",
+      "source": "https://github.com/neeraj-vish/React-ShoppingCart_Ecommerce_Website"
+    }
+  ]

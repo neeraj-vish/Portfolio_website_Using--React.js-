@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "role": "Web Developer -Intern",
+      "organisation": "Technohacks",
+      "startDate": "15 Jul, 2023",
+      "endDate": "15 Aug,2024",
+      "location": "Work From Home",
+      "experiences": [
+        "Learned HTML,CSS,JAVASCRIPT and developed three project"
+      ],
+      "imageSrc": "company/TechnoHacks.png"
+    },
+    {
+      "id": 2,
+       "role": "Web Developer -Intern",
+      "organisation": "InterCrowd",
+      "startDate": "01 Jun, 2022",
+      "endDate": "30 Jun, 2023",
+      "location": "Work Form Home",
+      "experiences": [
+        "Internship enhanced skills by creating Landing Page Design, Login/Signup, Quiz Website."
+      ],
+      "imageSrc": "company/InterCrowd.png"
+    },
+    {
+      "id": 3,
+      "role": "Web Developer -Intern",
+      "organisation": "BRAIN O VISION - Intern",
+      "startDate": "14 Aug, 2022",
+      "endDate": " 16 Sep, 2022",
+      "location": "Work Form Home",
+      "experiences": [
+        "Internship focused on using WordPress to create beautiful webpages."
+      ],
+      "imageSrc": "company/BrainOVision.png"
+    }
+  ]
