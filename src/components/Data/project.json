@@ -15,13 +15,14 @@
       "demo": "https://github.com/neeraj-vish/Encrypt-Decrypt-message-using-Plairfair-Caesar-Cipher/tree/main/Encrypt_Decrypt_video",
       "source": "https://github.com/neeraj-vish/Encrypt-Decrypt-message-using-Plairfair-Caesar-Cipher"
     },
+
     {
       "key": 3,
-      "title": "React API Project",
-      "imageSrc": "projects/proj3.png",
-      "description": "This project is focuses fetching data from third party through API and show the data on webpage",
-      "demo": "https://github.com/neeraj-vish/React_API_Project/blob/main/React%20API%20Project-video.mp4",
-      "source": "https://github.com/neeraj-vish/React_API_Project"
+      "title": "Employees Management System By Using React.Js",
+      "imageSrc": "projects/proj5.png",
+      "description": "This project built to manages the task between the employees and admin.For building this project we use React.JS with taliwind CSS for styling.All data are stored on Local Storage.",
+      "demo": "https://github.com/neeraj-vish/Encrypt-Decrypt-message-using-Plairfair-Caesar-Cipher/tree/main/Encrypt_Decrypt_video",
+      "source": "https://github.com/neeraj-vish/Employees_Mangement_System/blob/main/Employee%20Mangement%20System(Video).zip"
     },
     {
       "key": 4,
@@ -30,5 +31,15 @@
       "description": "This is React E-commerce shopping cart app with search,filter,addtocart,realted product functionality.",
       "demo": "https://github.com/neeraj-vish/React-ShoppingCart_Ecommerce_Website/tree/main/Demo_video",
       "source": "https://github.com/neeraj-vish/React-ShoppingCart_Ecommerce_Website"
+    },
+
+    {
+      "key": 5,
+      "title": "React API Project",
+      "imageSrc": "projects/proj3.png",
+      "description": "This project is focuses fetching data from third party through API and show the data on webpage",
+      "demo": "https://github.com/neeraj-vish/React_API_Project/blob/main/React%20API%20Project-video.mp4",
+      "source": "https://github.com/neeraj-vish/React_API_Project"
     }
+    
   ]
